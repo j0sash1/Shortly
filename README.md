@@ -117,7 +117,7 @@ dotnet --version
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/USUARIO/Shortly.git
+git clone https://github.com/j0sash1/Shortly.git
 ```
 
 ## 2. Entrar al proyecto

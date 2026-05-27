@@ -20,53 +20,53 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = Shortly
 build_property.RootNamespace = Shortly
-build_property.ProjectDir = /Users/josashi/Downloads/Shortly 2/
+build_property.ProjectDir = /Users/josashi/Downloads/Shortly/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/josashi/Downloads/Shortly 2
+build_property.MSBuildProjectDirectory = /Users/josashi/Downloads/Shortly
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Dashboard.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Error.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Index.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Login.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Privacy.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Register.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/_ViewImports.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/_ViewStart.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josashi/Downloads/Shortly 2/Pages/Shared/_Layout.cshtml]
+[/Users/josashi/Downloads/Shortly/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jl9whlo2ic

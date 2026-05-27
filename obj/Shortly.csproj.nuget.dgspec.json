@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josashi/Downloads/Shortly 2/Shortly.csproj": {}
+    "/Users/josashi/Downloads/Shortly/Shortly.csproj": {}
   },
   "projects": {
-    "/Users/josashi/Downloads/Shortly 2/Shortly.csproj": {
+    "/Users/josashi/Downloads/Shortly/Shortly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josashi/Downloads/Shortly 2/Shortly.csproj",
+        "projectUniqueName": "/Users/josashi/Downloads/Shortly/Shortly.csproj",
         "projectName": "Shortly",
-        "projectPath": "/Users/josashi/Downloads/Shortly 2/Shortly.csproj",
+        "projectPath": "/Users/josashi/Downloads/Shortly/Shortly.csproj",
         "packagesPath": "/Users/josashi/.nuget/packages/",
-        "outputPath": "/Users/josashi/Downloads/Shortly 2/obj/",
+        "outputPath": "/Users/josashi/Downloads/Shortly/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josashi/.nuget/NuGet/NuGet.Config"
